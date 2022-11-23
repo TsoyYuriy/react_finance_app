@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_finance_app/static/css/main.61283158.css",
+    "main.js": "/react_finance_app/static/js/main.3d091cac.js",
+    "static/js/787.19b78939.chunk.js": "/react_finance_app/static/js/787.19b78939.chunk.js",
+    "index.html": "/react_finance_app/index.html",
+    "main.61283158.css.map": "/react_finance_app/static/css/main.61283158.css.map",
+    "main.3d091cac.js.map": "/react_finance_app/static/js/main.3d091cac.js.map",
+    "787.19b78939.chunk.js.map": "/react_finance_app/static/js/787.19b78939.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61283158.css",
+    "static/js/main.3d091cac.js"
+  ]
+}
