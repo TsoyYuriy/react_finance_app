@@ -1,0 +1,22 @@
+.card {
+	display: flex;
+	align-items: center;
+	margin-bottom: 20px;
+	background: #00a4d47d;
+	border-radius: 5px;
+	padding: 15px 10px;
+}
+.card__text {
+	margin-right: auto;
+	max-width: 220px;
+	color: aliceblue;
+	font-weight: 400;
+
+}
+.card__price {
+	margin-right: 15px;
+	margin-left: 15px;
+	font-weight: 600;
+	color: #863333;
+	text-transform: uppercase;
+}

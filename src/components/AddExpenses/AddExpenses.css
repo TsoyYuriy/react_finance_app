@@ -1,0 +1,35 @@
+
+.add-expenses {
+	display: flex;
+	justify-content: space-evenly;
+	align-items: flex-end;
+}
+.add-expenses__inputs {
+	display: flex;
+	flex-direction: column;
+}
+.add-expenses__inputs input {
+	margin-bottom: 10px;
+	background: #c1a01d;
+	border: none;
+	padding: 10px 15px;
+	border-radius: 10px;
+	color: #FFFFFF;
+	font-size: 16px;
+}
+.add-expenses__inputs input:last-child {
+	margin-bottom: 0;
+}
+
+.add-expenses__inputs input::placeholder {
+	color: #FFFFFF;
+}
+.add-btn{
+	border: none;
+	padding: 8px 40px;
+	border-radius: 10px;
+	background: #0c8f93;
+	color: #FFFFFFFF;
+	font-size: 18px;
+	font-weight: 600;
+}

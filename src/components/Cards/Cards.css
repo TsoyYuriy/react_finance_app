@@ -1,0 +1,14 @@
+.cards {
+	padding: 10px 15px;
+	overflow-y: scroll;
+	height: 400px;
+}
+.remove-btn {
+	align-self: flex-start;
+	border: none;
+	background: darkred;
+	color: aliceblue;
+	width: 25px;
+	height: 25px;
+	border-radius: 50%;
+}
